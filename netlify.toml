@@ -1,0 +1,3 @@
+[build]
+# Folder ini berisi index.html dan semua aset aplikasi.
+  publish = "."
